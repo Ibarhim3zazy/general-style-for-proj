@@ -6,9 +6,10 @@
     <link rel="stylesheet" href="css/general.css">
   </head>
   <body>
-    <header>
+    <header style="s">
       <a href="#" style="color:#fff;border-bottom: #fff solid 6px;margin:20px;">Home</a>
       <a href="#">about</a>
+      <img src="img/logo.png" style="width: 180px; display: inline-block; margin-top:-20px; float:left;" alt="">
     </header>
     <section>
       <h1>button color</h1>
@@ -30,6 +31,8 @@
       <h1>links size and color</h1>
       <a href="#" id="link1">body Link 1</a><br><br>
       <a href="#" id="link2">body Link 2</a><br><br>
+      <a href="#" id="link7">body Link 7</a><br><br>
+      <a href="#" id="link8">body Link 8</a><br><br>
       <a href="#" id="link4">body Link 4 &#10095;</a><br><br>
       <a href="#" id="link5">&#10094; body Link 5</a><br><br>
     </section>

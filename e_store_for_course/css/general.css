@@ -170,6 +170,23 @@ section a{
   text-decoration: none;
   color: #327CCD;
 }
+#link7{
+  color: #344F96;
+  transition: .6s;
+  text-decoration: none;
+}
+#link7:hover{
+text-decoration: underline;
+  color: #0C182999;
+}
+#link8{
+  color: #344F96;
+  transition: .6s;
+  text-decoration: none;
+}
+#link8:hover{
+text-decoration: underline;
+}
 input[placeholder="text color"]{
   width: 250px;
   padding: 10px;
